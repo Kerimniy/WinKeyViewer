@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\winreg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B1C57E-28CA-4A98-AA20-05311211C8D4}|WinKeyViewer\\WinKeyViewer.csproj|d:\\c#\\winreg\\winkeyviewer\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B1C57E-28CA-4A98-AA20-05311211C8D4}|WinKeyViewer\\WinKeyViewer.csproj|solutionrelative:winkeyviewer\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B1C57E-28CA-4A98-AA20-05311211C8D4}|WinKeyViewer\\WinKeyViewer.csproj|d:\\c#\\winreg\\winkeyviewer\\winkeyviewer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B6B1C57E-28CA-4A98-AA20-05311211C8D4}|WinKeyViewer\\WinKeyViewer.csproj|solutionrelative:winkeyviewer\\winkeyviewer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinKeyViewer",
+              "DocumentMoniker": "D:\\C#\\winreg\\WinKeyViewer\\WinKeyViewer.csproj",
+              "RelativeDocumentMoniker": "WinKeyViewer\\WinKeyViewer.csproj",
+              "ToolTip": "D:\\C#\\winreg\\WinKeyViewer\\WinKeyViewer.csproj",
+              "RelativeToolTip": "WinKeyViewer\\WinKeyViewer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T16:25:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\C#\\winreg\\WinKeyViewer\\Main.cs",
+              "RelativeDocumentMoniker": "WinKeyViewer\\Main.cs",
+              "ToolTip": "D:\\C#\\winreg\\WinKeyViewer\\Main.cs",
+              "RelativeToolTip": "WinKeyViewer\\Main.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowM0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:15:51.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 69,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
