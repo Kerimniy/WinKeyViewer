@@ -191,19 +191,5 @@ namespace WinS
         }
         
         
-        //--NO-IN-USE--
-
-        /*
-        static void NasratVReestr()
-        {
-            var key = Microsoft.Win32.Registry.CurrentUser.CreateSubKey("SOFTWARE\\Kerimniy");
-            key.SetValue("Param1", "NET");
-            key.SetValue("Tipo Vazhniu", "Da");
-            key.SetValue("Tipo Nevazhniu", "Net");
-            key.SetValue("Popalsya", "Da");
-            key.SetValue("Ya Nasral V Reestr", "Da");
-            key.Close();
-        }
-        */
     }
 }
